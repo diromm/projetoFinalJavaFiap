@@ -26,5 +26,10 @@
             <artifactId>java-telegram-bot-api</artifactId>
             <version>5.7.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.jboss.resteasy</groupId>
+            <artifactId>resteasy-client</artifactId>
+            <version>6.0.0.Final</version>
+        </dependency>
     </dependencies>
 </project>
